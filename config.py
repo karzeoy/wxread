@@ -30,6 +30,8 @@ cookies = {
     '_qimei_uuid42': '183070d3135100ee797b08bc922054dc3062834291',
     'wr_avatar': 'https%3A%2F%2Fthirdwx.qlogo.cn%2Fmmopen%2Fvi_32%2FeEOpSbFh2Mb1bUxMW9Y3FRPfXwWvOLaNlsjWIkcKeeNg6vlVS5kOVuhNKGQ1M8zaggLqMPmpE5qIUdqEXlQgYg%2F132',
     'wr_gender': '0',
+    'wr_vid': '22196951',
+    'wr_rt': 'web%40ANf9SvhELX9dkJH4wZa_AL',
 }
 
 headers = {
